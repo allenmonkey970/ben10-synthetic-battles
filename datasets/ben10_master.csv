@@ -1,0 +1,301 @@
+alien_name,enemy_name,alien1_species,alien1_home_planet,alien1_strength_level,alien1_speed_level,alien1_intelligence,alien2_species,alien2_home_planet,alien2_strength_level,alien2_speed_level,alien2_intelligence,winner
+Rath,Eatle,Bestite,Vega,5,8,8,Valueite,Orion Nebula,5,7,5,Rath
+Lodestar,Wildmutt,Cellite,Krypton,6,8,10,Chanceite,Epsilon Eridani,8,6,10,Lodestar
+Walkatrout,Grey Matter,Taxite,Vulcan,5,9,9,Groundite,Krypton,8,4,6,Grey Matter
+Four Arms,Wildmutt,Decideite,Epsilon Eridani,8,4,5,Chanceite,Epsilon Eridani,8,6,10,Wildmutt
+Shock Rock,Eatle,Littleite,Rylos,7,6,6,Valueite,Orion Nebula,5,7,5,Eatle
+Terraspin,Ultimate Way Big,Mostite,Orion Nebula,10,6,7,Threeite,Hala,7,4,6,Terraspin
+Way Big,Four Arms,Formite,Tierra Nova,7,8,10,Decideite,Epsilon Eridani,8,4,5,Way Big
+Overflow,Big Chill,Receiveite,Nebulon,6,7,8,Sourceite,Vortis,9,5,8,Overflow
+Gravattack,Wildmutt,Greenite,Kratos IV,5,7,6,Chanceite,Epsilon Eridani,8,6,10,Gravattack
+Gravattack,Wildmutt,Greenite,Kratos IV,5,7,6,Chanceite,Epsilon Eridani,8,6,10,Gravattack
+Blitzwolfer,Toepick,Storeite,Talos IV,9,6,6,Whereite,Xandar,7,6,9,Blitzwolfer
+Toepick,Heatblast,Whereite,Xandar,7,6,9,Ontoite,Talos IV,9,6,9,Toepick
+Frankenstrike,Snare-oh,Actionite,Rylos,10,7,8,Aite,Vulcan,5,6,7,Frankenstrike
+Ultimate Wildmutt,Jetpack Alien,Respondite,Altair IV,10,9,5,Townite,Tau Ceti,8,9,8,Jetpack Alien
+Ultimate Humungousaur,Jetray,Togetherite,Vega,10,4,6,Dealite,Tau Ceti,9,8,9,Ultimate Humungousaur
+Slapback,Bloxx,Personite,Hala,9,6,5,Agentite,Hala,8,10,9,Slapback
+Bloxx,Ditto,Agentite,Hala,8,10,9,Workite,Alpha Centauri,8,4,6,Bloxx
+Whampire,Ultimate Cannonbolt,Riskite,Zygara,9,10,6,Spaceite,Xandar,8,9,9,Ultimate Cannonbolt
+Alien X,Ultimate Big Chill,Indeedite,Andromeda Prime,7,8,6,Herite,Sirius,9,10,9,Ultimate Big Chill
+Humungousaur,Ultimate Gravattack,Lateite,Rylos,5,8,10,Actite,Rylos,10,4,7,Humungousaur
+NRG,Walkatrout,Earlyite,Rylos,7,5,10,Taxite,Vulcan,5,9,9,Walkatrout
+Walkatrout,Ultimate Wildmutt,Taxite,Vulcan,5,9,9,Respondite,Altair IV,10,9,5,Ultimate Wildmutt
+Hot Shot,Toepick,Personite,Epsilon Eridani,9,9,7,Whereite,Xandar,7,6,9,Toepick
+Four Arms,Wildmutt,Decideite,Epsilon Eridani,8,4,5,Chanceite,Epsilon Eridani,8,6,10,Four Arms
+Astrodactyl,NRG,Acrossite,Hala,10,7,8,Earlyite,Rylos,7,5,10,NRG
+Astrodactyl,NRG,Acrossite,Hala,10,7,8,Earlyite,Rylos,7,5,10,Astrodactyl
+Ultimate Wildmutt,Jetpack Alien,Respondite,Altair IV,10,9,5,Townite,Tau Ceti,8,9,8,Jetpack Alien
+Crashhopper,AmpFibian,Colorite,Vega,7,7,9,Particularite,Zantron,5,8,5,Crashhopper
+Cannonbolt,Big Chill,Minuteite,Nebulon,10,10,7,Sourceite,Vortis,9,5,8,Cannonbolt
+Upchuck,Armodrillo,Particularlyite,Altair IV,7,10,5,Discussionite,Tierra Nova,5,4,10,Upchuck
+Glitch Ben,Chamalien,Oilite,Vega,8,4,8,Articleite,Alpha Centauri,5,4,5,Glitch Ben
+Ultimate Swampfire,Jury Rigg,Centuryite,Ego the Living Planet,9,10,10,Toughite,Qonos,7,4,8,Jury Rigg
+Jetray,Lodestar,Dealite,Tau Ceti,9,8,9,Cellite,Krypton,6,8,10,Jetray
+Atomix,Glitch Ben,Eastite,Sirius,10,5,10,Oilite,Vega,8,4,8,Atomix
+Brainstorm,Terraspin,Somebodyite,Xenon,7,4,7,Mostite,Orion Nebula,10,6,7,Terraspin
+Jury Rigg,Four Arms,Toughite,Qonos,7,4,8,Decideite,Epsilon Eridani,8,4,5,Four Arms
+Eatle,Ultimate Way Big,Valueite,Orion Nebula,5,7,5,Threeite,Hala,7,4,6,Ultimate Way Big
+Way Big,Four Arms,Formite,Tierra Nova,7,8,10,Decideite,Epsilon Eridani,8,4,5,Way Big
+Atomix,Fasttrack,Eastite,Sirius,10,5,10,Programite,Altair IV,9,10,10,Fasttrack
+Walkatrout,Grey Matter,Taxite,Vulcan,5,9,9,Groundite,Krypton,8,4,6,Grey Matter
+Shock Rock,Eatle,Littleite,Rylos,7,6,6,Valueite,Orion Nebula,5,7,5,Eatle
+Humungousaur,Ultimate Gravattack,Lateite,Rylos,5,8,10,Actite,Rylos,10,4,7,Ultimate Gravattack
+Ultimate Cannonbolt,Wildmutt,Spaceite,Xandar,8,9,9,Chanceite,Epsilon Eridani,8,6,10,Ultimate Cannonbolt
+Diamondhead,Wildvine,Evidenceite,Vega,7,7,9,Withoutite,Solaris,9,5,8,Diamondhead
+Walkatrout,Grey Matter,Taxite,Vulcan,5,9,9,Groundite,Krypton,8,4,6,Grey Matter
+Whampire,Eatle,Riskite,Zygara,9,10,6,Valueite,Orion Nebula,5,7,5,Eatle
+Ditto,Swampfire,Workite,Alpha Centauri,8,4,6,Electionite,Krypton,9,4,10,Ditto
+Rath,Eatle,Bestite,Vega,5,8,8,Valueite,Orion Nebula,5,7,5,Eatle
+Stinkfly,Slapback,Nameite,Alpha Centauri,5,5,10,Personite,Hala,9,6,5,Slapback
+Stinkfly,Slapback,Nameite,Alpha Centauri,5,5,10,Personite,Hala,9,6,5,Stinkfly
+Four Arms,The Worst,Decideite,Epsilon Eridani,8,4,5,Candidateite,Vortis,6,8,6,The Worst
+Astrodactyl,NRG,Acrossite,Hala,10,7,8,Earlyite,Rylos,7,5,10,NRG
+XLR8,Gravattack,Withoutite,Beta Hydri,9,5,8,Greenite,Kratos IV,5,7,6,Gravattack
+Pesky Dust,Way Big,Simpleite,Nexus Prime,6,7,7,Formite,Tierra Nova,7,8,10,Pesky Dust
+NRG,Swampfire,Earlyite,Rylos,7,5,10,Electionite,Krypton,9,4,10,NRG
+Crashhopper,AmpFibian,Colorite,Vega,7,7,9,Particularite,Zantron,5,8,5,AmpFibian
+Chamalien,Pesky Dust,Articleite,Alpha Centauri,5,4,5,Simpleite,Nexus Prime,6,7,7,Pesky Dust
+Fasttrack,Ultimate Spidermonkey,Programite,Altair IV,9,10,10,Sendite,Nebulon,10,10,5,Ultimate Spidermonkey
+Jetray,Lodestar,Dealite,Tau Ceti,9,8,9,Cellite,Krypton,6,8,10,Lodestar
+Slapback,Bloxx,Personite,Hala,9,6,5,Agentite,Hala,8,10,9,Slapback
+Goop,Whampire,Alsoite,Ego the Living Planet,9,8,7,Riskite,Zygara,9,10,6,Goop
+The Worst,Jury Rigg,Candidateite,Vortis,6,8,6,Toughite,Qonos,7,4,8,Jury Rigg
+Fasttrack,Ultimate Spidermonkey,Programite,Altair IV,9,10,10,Sendite,Nebulon,10,10,5,Fasttrack
+Upgrade,Big Chill,Minuteite,Pandora,9,7,10,Sourceite,Vortis,9,5,8,Big Chill
+Ditto,Swampfire,Workite,Alpha Centauri,8,4,6,Electionite,Krypton,9,4,10,Swampfire
+Bullfrag,Ultimate Big Chill,Politicalite,Ego the Living Planet,5,10,5,Herite,Sirius,9,10,9,Ultimate Big Chill
+Blitzwolfer,Toepick,Storeite,Talos IV,9,6,6,Whereite,Xandar,7,6,9,Toepick
+Swampfire,Ultimate Echo Echo,Electionite,Krypton,9,4,10,Totalite,Solaris,6,6,9,Ultimate Echo Echo
+Stinkfly,Slapback,Nameite,Alpha Centauri,5,5,10,Personite,Hala,9,6,5,Stinkfly
+Gax,Ball Weevil,Girlite,Altair IV,9,5,6,Darkite,Tierra Nova,10,10,8,Gax
+XLR8,Gravattack,Withoutite,Beta Hydri,9,5,8,Greenite,Kratos IV,5,7,6,Gravattack
+AmpFibian,Way Big,Particularite,Zantron,5,8,5,Formite,Tierra Nova,7,8,10,AmpFibian
+Upchuck,Armodrillo,Particularlyite,Altair IV,7,10,5,Discussionite,Tierra Nova,5,4,10,Armodrillo
+Spidermonkey,Snare-oh,Faceite,Zygara,7,9,9,Aite,Vulcan,5,6,7,Snare-oh
+Cannonbolt,Big Chill,Minuteite,Nebulon,10,10,7,Sourceite,Vortis,9,5,8,Cannonbolt
+Ripjaws,Grey Matter,Addite,Tierra Nova,5,7,10,Groundite,Krypton,8,4,6,Grey Matter
+Terraspin,Ultimate Way Big,Mostite,Orion Nebula,10,6,7,Threeite,Hala,7,4,6,Ultimate Way Big
+Rath,Ditto,Bestite,Vega,5,8,8,Workite,Alpha Centauri,8,4,6,Rath
+Atomix,Fasttrack,Eastite,Sirius,10,5,10,Programite,Altair IV,9,10,10,Atomix
+The Worst,AmpFibian,Candidateite,Vortis,6,8,6,Particularite,Zantron,5,8,5,The Worst
+Big Chill,Ultimate Cannonbolt,Sourceite,Vortis,9,5,8,Spaceite,Xandar,8,9,9,Ultimate Cannonbolt
+Jetray,Lodestar,Dealite,Tau Ceti,9,8,9,Cellite,Krypton,6,8,10,Lodestar
+Feedback,Armodrillo,Norite,Beta Hydri,7,4,10,Discussionite,Tierra Nova,5,4,10,Armodrillo
+Chromastone,Jetpack Alien,Growthite,Vega,10,5,6,Townite,Tau Ceti,8,9,8,Chromastone
+Terraspin,Ultimate Way Big,Mostite,Orion Nebula,10,6,7,Threeite,Hala,7,4,6,Ultimate Way Big
+Bloxx,Ditto,Agentite,Hala,8,10,9,Workite,Alpha Centauri,8,4,6,Ditto
+Snare-oh,Jetpack Alien,Aite,Vulcan,5,6,7,Townite,Tau Ceti,8,9,8,Jetpack Alien
+Chamalien,Ditto,Articleite,Alpha Centauri,5,4,5,Workite,Alpha Centauri,8,4,6,Chamalien
+Astrodactyl,NRG,Acrossite,Hala,10,7,8,Earlyite,Rylos,7,5,10,NRG
+Rath,Ditto,Bestite,Vega,5,8,8,Workite,Alpha Centauri,8,4,6,Ditto
+Snare-oh,Echo Echo,Aite,Vulcan,5,6,7,Leaderite,Rylos,8,4,8,Snare-oh
+Brainstorm,Terraspin,Somebodyite,Xenon,7,4,7,Mostite,Orion Nebula,10,6,7,Terraspin
+Snare-oh,Jetpack Alien,Aite,Vulcan,5,6,7,Townite,Tau Ceti,8,9,8,Jetpack Alien
+Ultimate Spidermonkey,Four Arms,Sendite,Nebulon,10,10,5,Decideite,Epsilon Eridani,8,4,5,Four Arms
+Astrodactyl,Ultimate Gravattack,Acrossite,Hala,10,7,8,Actite,Rylos,10,4,7,Astrodactyl
+Mole-Stache,Goop,Yardite,Vega,5,4,6,Alsoite,Ego the Living Planet,9,8,7,Mole-Stache
+Ultimate Spidermonkey,Four Arms,Sendite,Nebulon,10,10,5,Decideite,Epsilon Eridani,8,4,5,Ultimate Spidermonkey
+Upchuck,Armodrillo,Particularlyite,Altair IV,7,10,5,Discussionite,Tierra Nova,5,4,10,Upchuck
+Four Arms,The Worst,Decideite,Epsilon Eridani,8,4,5,Candidateite,Vortis,6,8,6,The Worst
+Clockwork,Ultimate Big Chill,Individualite,Tierra Nova,9,9,6,Herite,Sirius,9,10,9,Clockwork
+Terraspin,Ultimate Big Chill,Mostite,Orion Nebula,10,6,7,Herite,Sirius,9,10,9,Ultimate Big Chill
+Goop,Whampire,Alsoite,Ego the Living Planet,9,8,7,Riskite,Zygara,9,10,6,Goop
+Lodestar,Ultimate Gravattack,Cellite,Krypton,6,8,10,Actite,Rylos,10,4,7,Lodestar
+Ultimate Big Chill,Ultimate Swampfire,Herite,Sirius,9,10,9,Centuryite,Ego the Living Planet,9,10,10,Ultimate Swampfire
+Eye Guy,Fasttrack,Middleite,Kratos IV,10,4,8,Programite,Altair IV,9,10,10,Eye Guy
+XLR8,Gravattack,Withoutite,Beta Hydri,9,5,8,Greenite,Kratos IV,5,7,6,XLR8
+Cannonbolt,Big Chill,Minuteite,Nebulon,10,10,7,Sourceite,Vortis,9,5,8,Big Chill
+Humungousaur,Ultimate Gravattack,Lateite,Rylos,5,8,10,Actite,Rylos,10,4,7,Humungousaur
+Way Big,Four Arms,Formite,Tierra Nova,7,8,10,Decideite,Epsilon Eridani,8,4,5,Way Big
+Mole-Stache,Overflow,Yardite,Vega,5,4,6,Receiveite,Nebulon,6,7,8,Overflow
+Fasttrack,Ultimate Spidermonkey,Programite,Altair IV,9,10,10,Sendite,Nebulon,10,10,5,Fasttrack
+Gax,Ball Weevil,Girlite,Altair IV,9,5,6,Darkite,Tierra Nova,10,10,8,Ball Weevil
+Kickin Hawk,Jetray,Loseite,Tierra Nova,8,5,8,Dealite,Tau Ceti,9,8,9,Jetray
+Overflow,Big Chill,Receiveite,Nebulon,6,7,8,Sourceite,Vortis,9,5,8,Overflow
+Slapback,Bloxx,Personite,Hala,9,6,5,Agentite,Hala,8,10,9,Slapback
+Ultimate Echo Echo,Feedback,Totalite,Solaris,6,6,9,Norite,Beta Hydri,7,4,10,Ultimate Echo Echo
+Mole-Stache,Overflow,Yardite,Vega,5,4,6,Receiveite,Nebulon,6,7,8,Mole-Stache
+Hot Shot,Toepick,Personite,Epsilon Eridani,9,9,7,Whereite,Xandar,7,6,9,Toepick
+Ultimate Way Big,Overflow,Threeite,Hala,7,4,6,Receiveite,Nebulon,6,7,8,Ultimate Way Big
+Gax,Snare-oh,Girlite,Altair IV,9,5,6,Aite,Vulcan,5,6,7,Snare-oh
+Ball Weevil,Glitch Ben,Darkite,Tierra Nova,10,10,8,Oilite,Vega,8,4,8,Ball Weevil
+Ultimate Wildmutt,Jetpack Alien,Respondite,Altair IV,10,9,5,Townite,Tau Ceti,8,9,8,Jetpack Alien
+Cannonbolt,Big Chill,Minuteite,Nebulon,10,10,7,Sourceite,Vortis,9,5,8,Cannonbolt
+Crashhopper,AmpFibian,Colorite,Vega,7,7,9,Particularite,Zantron,5,8,5,Crashhopper
+Terraspin,Ultimate Way Big,Mostite,Orion Nebula,10,6,7,Threeite,Hala,7,4,6,Terraspin
+Gax,Snare-oh,Girlite,Altair IV,9,5,6,Aite,Vulcan,5,6,7,Gax
+Goop,Whampire,Alsoite,Ego the Living Planet,9,8,7,Riskite,Zygara,9,10,6,Goop
+Alien X,Ultimate Big Chill,Indeedite,Andromeda Prime,7,8,6,Herite,Sirius,9,10,9,Ultimate Big Chill
+Shocksquatch,Cannonbolt,Everite,Omega Centauri,9,6,6,Minuteite,Nebulon,10,10,7,Shocksquatch
+Pesky Dust,Toepick,Simpleite,Nexus Prime,6,7,7,Whereite,Xandar,7,6,9,Pesky Dust
+Shock Rock,Eatle,Littleite,Rylos,7,6,6,Valueite,Orion Nebula,5,7,5,Eatle
+Goop,Whampire,Alsoite,Ego the Living Planet,9,8,7,Riskite,Zygara,9,10,6,Whampire
+Big Chill,Ultimate Cannonbolt,Sourceite,Vortis,9,5,8,Spaceite,Xandar,8,9,9,Ultimate Cannonbolt
+Ghostfreak,Gax,Maybeite,Solaris,8,8,6,Girlite,Altair IV,9,5,6,Ghostfreak
+Slapback,Ultimate Echo Echo,Personite,Hala,9,6,5,Totalite,Solaris,6,6,9,Ultimate Echo Echo
+Crashhopper,AmpFibian,Colorite,Vega,7,7,9,Particularite,Zantron,5,8,5,Crashhopper
+Swampfire,Ultimate Echo Echo,Electionite,Krypton,9,4,10,Totalite,Solaris,6,6,9,Swampfire
+Mole-Stache,Goop,Yardite,Vega,5,4,6,Alsoite,Ego the Living Planet,9,8,7,Mole-Stache
+Wildmutt,Big Chill,Chanceite,Epsilon Eridani,8,6,10,Sourceite,Vortis,9,5,8,Wildmutt
+Eatle,Ditto,Valueite,Orion Nebula,5,7,5,Workite,Alpha Centauri,8,4,6,Ditto
+Ultimate Echo Echo,Ultimate Swampfire,Totalite,Solaris,6,6,9,Centuryite,Ego the Living Planet,9,10,10,Ultimate Echo Echo
+Ultimate Wildmutt,Jetpack Alien,Respondite,Altair IV,10,9,5,Townite,Tau Ceti,8,9,8,Ultimate Wildmutt
+Wildvine,Ultimate Swampfire,Withoutite,Solaris,9,5,8,Centuryite,Ego the Living Planet,9,10,10,Ultimate Swampfire
+Wildvine,Ultimate Swampfire,Withoutite,Solaris,9,5,8,Centuryite,Ego the Living Planet,9,10,10,Ultimate Swampfire
+Brainstorm,Terraspin,Somebodyite,Xenon,7,4,7,Mostite,Orion Nebula,10,6,7,Terraspin
+AmpFibian,Way Big,Particularite,Zantron,5,8,5,Formite,Tierra Nova,7,8,10,AmpFibian
+Diamondhead,Snare-oh,Evidenceite,Vega,7,7,9,Aite,Vulcan,5,6,7,Snare-oh
+Ultimate Big Chill,Ultimate Swampfire,Herite,Sirius,9,10,9,Centuryite,Ego the Living Planet,9,10,10,Ultimate Big Chill
+Gax,Snare-oh,Girlite,Altair IV,9,5,6,Aite,Vulcan,5,6,7,Gax
+Jetpack Alien,Ghostfreak,Townite,Tau Ceti,8,9,8,Maybeite,Solaris,8,8,6,Jetpack Alien
+Ultimate Wildmutt,Jetpack Alien,Respondite,Altair IV,10,9,5,Townite,Tau Ceti,8,9,8,Ultimate Wildmutt
+Eye Guy,Blitzwolfer,Middleite,Kratos IV,10,4,8,Storeite,Talos IV,9,6,6,Blitzwolfer
+Terraspin,Ultimate Big Chill,Mostite,Orion Nebula,10,6,7,Herite,Sirius,9,10,9,Terraspin
+The Worst,AmpFibian,Candidateite,Vortis,6,8,6,Particularite,Zantron,5,8,5,The Worst
+Big Chill,Ultimate Cannonbolt,Sourceite,Vortis,9,5,8,Spaceite,Xandar,8,9,9,Big Chill
+Fasttrack,Ultimate Swampfire,Programite,Altair IV,9,10,10,Centuryite,Ego the Living Planet,9,10,10,Ultimate Swampfire
+Brainstorm,Terraspin,Somebodyite,Xenon,7,4,7,Mostite,Orion Nebula,10,6,7,Brainstorm
+Bloxx,Ditto,Agentite,Hala,8,10,9,Workite,Alpha Centauri,8,4,6,Ditto
+Brainstorm,Terraspin,Somebodyite,Xenon,7,4,7,Mostite,Orion Nebula,10,6,7,Brainstorm
+Ultimate Wildmutt,Jetpack Alien,Respondite,Altair IV,10,9,5,Townite,Tau Ceti,8,9,8,Jetpack Alien
+Ultimate Echo Echo,Ultimate Way Big,Totalite,Solaris,6,6,9,Threeite,Hala,7,4,6,Ultimate Echo Echo
+Alien X,Ultimate Swampfire,Indeedite,Andromeda Prime,7,8,6,Centuryite,Ego the Living Planet,9,10,10,Ultimate Swampfire
+Toepick,Blitzwolfer,Whereite,Xandar,7,6,9,Storeite,Talos IV,9,6,6,Blitzwolfer
+Heatblast,Terraspin,Ontoite,Talos IV,9,6,9,Mostite,Orion Nebula,10,6,7,Heatblast
+Ditto,Swampfire,Workite,Alpha Centauri,8,4,6,Electionite,Krypton,9,4,10,Ditto
+Lodestar,Ultimate Gravattack,Cellite,Krypton,6,8,10,Actite,Rylos,10,4,7,Ultimate Gravattack
+Alien X,Ultimate Swampfire,Indeedite,Andromeda Prime,7,8,6,Centuryite,Ego the Living Planet,9,10,10,Alien X
+Kickin Hawk,AmpFibian,Loseite,Tierra Nova,8,5,8,Particularite,Zantron,5,8,5,Kickin Hawk
+Clockwork,Ultimate Big Chill,Individualite,Tierra Nova,9,9,6,Herite,Sirius,9,10,9,Ultimate Big Chill
+Blitzwolfer,Toepick,Storeite,Talos IV,9,6,6,Whereite,Xandar,7,6,9,Toepick
+Upchuck,Armodrillo,Particularlyite,Altair IV,7,10,5,Discussionite,Tierra Nova,5,4,10,Armodrillo
+XLR8,Gravattack,Withoutite,Beta Hydri,9,5,8,Greenite,Kratos IV,5,7,6,XLR8
+Ultimate Cannonbolt,NRG,Spaceite,Xandar,8,9,9,Earlyite,Rylos,7,5,10,NRG
+Slapback,Bloxx,Personite,Hala,9,6,5,Agentite,Hala,8,10,9,Slapback
+Upchuck,Armodrillo,Particularlyite,Altair IV,7,10,5,Discussionite,Tierra Nova,5,4,10,Armodrillo
+Glitch Ben,Diamondhead,Oilite,Vega,8,4,8,Evidenceite,Vega,7,7,9,Diamondhead
+Ultimate Swampfire,XLR8,Centuryite,Ego the Living Planet,9,10,10,Withoutite,Beta Hydri,9,5,8,Ultimate Swampfire
+Kickin Hawk,AmpFibian,Loseite,Tierra Nova,8,5,8,Particularite,Zantron,5,8,5,AmpFibian
+Heatblast,Ultimate Echo Echo,Ontoite,Talos IV,9,6,9,Totalite,Solaris,6,6,9,Heatblast
+Humungousaur,Ultimate Gravattack,Lateite,Rylos,5,8,10,Actite,Rylos,10,4,7,Humungousaur
+Wildvine,Ultimate Swampfire,Withoutite,Solaris,9,5,8,Centuryite,Ego the Living Planet,9,10,10,Ultimate Swampfire
+Ball Weevil,Glitch Ben,Darkite,Tierra Nova,10,10,8,Oilite,Vega,8,4,8,Glitch Ben
+Ultimate Humungousaur,Jetray,Togetherite,Vega,10,4,6,Dealite,Tau Ceti,9,8,9,Jetray
+Fasttrack,Ultimate Spidermonkey,Programite,Altair IV,9,10,10,Sendite,Nebulon,10,10,5,Ultimate Spidermonkey
+Astrodactyl,Ultimate Gravattack,Acrossite,Hala,10,7,8,Actite,Rylos,10,4,7,Astrodactyl
+Jetray,Feedback,Dealite,Tau Ceti,9,8,9,Norite,Beta Hydri,7,4,10,Jetray
+Swampfire,Ultimate Echo Echo,Electionite,Krypton,9,4,10,Totalite,Solaris,6,6,9,Swampfire
+Glitch Ben,Chamalien,Oilite,Vega,8,4,8,Articleite,Alpha Centauri,5,4,5,Glitch Ben
+Kickin Hawk,Chamalien,Loseite,Tierra Nova,8,5,8,Articleite,Alpha Centauri,5,4,5,Kickin Hawk
+Ultimate Spidermonkey,Ultimate Humungousaur,Sendite,Nebulon,10,10,5,Togetherite,Vega,10,4,6,Ultimate Humungousaur
+Water Hazard,Upgrade,Seaite,Xandar,9,10,8,Minuteite,Pandora,9,7,10,Upgrade
+Gravattack,Wildmutt,Greenite,Kratos IV,5,7,6,Chanceite,Epsilon Eridani,8,6,10,Gravattack
+AmpFibian,Way Big,Particularite,Zantron,5,8,5,Formite,Tierra Nova,7,8,10,AmpFibian
+Upchuck,Armodrillo,Particularlyite,Altair IV,7,10,5,Discussionite,Tierra Nova,5,4,10,Upchuck
+Big Chill,Chamalien,Sourceite,Vortis,9,5,8,Articleite,Alpha Centauri,5,4,5,Big Chill
+Feedback,Armodrillo,Norite,Beta Hydri,7,4,10,Discussionite,Tierra Nova,5,4,10,Armodrillo
+Gravattack,Feedback,Greenite,Kratos IV,5,7,6,Norite,Beta Hydri,7,4,10,Gravattack
+Frankenstrike,Gutrot,Actionite,Rylos,10,7,8,Thusite,Krypton,6,10,10,Frankenstrike
+Blitzwolfer,Toepick,Storeite,Talos IV,9,6,6,Whereite,Xandar,7,6,9,Toepick
+Toepick,Way Big,Whereite,Xandar,7,6,9,Formite,Tierra Nova,7,8,10,Toepick
+Shocksquatch,Cannonbolt,Everite,Omega Centauri,9,6,6,Minuteite,Nebulon,10,10,7,Shocksquatch
+Shock Rock,Eatle,Littleite,Rylos,7,6,6,Valueite,Orion Nebula,5,7,5,Eatle
+Ultimate Big Chill,Ultimate Swampfire,Herite,Sirius,9,10,9,Centuryite,Ego the Living Planet,9,10,10,Ultimate Big Chill
+Ultimate Humungousaur,Jetray,Togetherite,Vega,10,4,6,Dealite,Tau Ceti,9,8,9,Ultimate Humungousaur
+Goop,Whampire,Alsoite,Ego the Living Planet,9,8,7,Riskite,Zygara,9,10,6,Goop
+Atomix,Glitch Ben,Eastite,Sirius,10,5,10,Oilite,Vega,8,4,8,Atomix
+Frankenstrike,Snare-oh,Actionite,Rylos,10,7,8,Aite,Vulcan,5,6,7,Snare-oh
+Glitch Ben,Chamalien,Oilite,Vega,8,4,8,Articleite,Alpha Centauri,5,4,5,Chamalien
+Terraspin,Ultimate Big Chill,Mostite,Orion Nebula,10,6,7,Herite,Sirius,9,10,9,Ultimate Big Chill
+Ultimate Echo Echo,Ultimate Way Big,Totalite,Solaris,6,6,9,Threeite,Hala,7,4,6,Ultimate Echo Echo
+Upgrade,Big Chill,Minuteite,Pandora,9,7,10,Sourceite,Vortis,9,5,8,Upgrade
+Blitzwolfer,Toepick,Storeite,Talos IV,9,6,6,Whereite,Xandar,7,6,9,Blitzwolfer
+Atomix,Glitch Ben,Eastite,Sirius,10,5,10,Oilite,Vega,8,4,8,Glitch Ben
+Ultimate Humungousaur,Jetray,Togetherite,Vega,10,4,6,Dealite,Tau Ceti,9,8,9,Ultimate Humungousaur
+Water Hazard,Upgrade,Seaite,Xandar,9,10,8,Minuteite,Pandora,9,7,10,Upgrade
+Spidermonkey,Upchuck,Faceite,Zygara,7,9,9,Particularlyite,Altair IV,7,10,5,Upchuck
+Ultimate Way Big,Overflow,Threeite,Hala,7,4,6,Receiveite,Nebulon,6,7,8,Overflow
+NRG,Swampfire,Earlyite,Rylos,7,5,10,Electionite,Krypton,9,4,10,NRG
+AmpFibian,Way Big,Particularite,Zantron,5,8,5,Formite,Tierra Nova,7,8,10,Way Big
+Humungousaur,Ultimate Gravattack,Lateite,Rylos,5,8,10,Actite,Rylos,10,4,7,Humungousaur
+AmpFibian,Way Big,Particularite,Zantron,5,8,5,Formite,Tierra Nova,7,8,10,Way Big
+Crashhopper,AmpFibian,Colorite,Vega,7,7,9,Particularite,Zantron,5,8,5,Crashhopper
+Shock Rock,Eatle,Littleite,Rylos,7,6,6,Valueite,Orion Nebula,5,7,5,Eatle
+Spidermonkey,Snare-oh,Faceite,Zygara,7,9,9,Aite,Vulcan,5,6,7,Snare-oh
+Spidermonkey,Upchuck,Faceite,Zygara,7,9,9,Particularlyite,Altair IV,7,10,5,Spidermonkey
+Chamalien,Ditto,Articleite,Alpha Centauri,5,4,5,Workite,Alpha Centauri,8,4,6,Chamalien
+Upgrade,Big Chill,Minuteite,Pandora,9,7,10,Sourceite,Vortis,9,5,8,Upgrade
+Ultimate Big Chill,Ultimate Swampfire,Herite,Sirius,9,10,9,Centuryite,Ego the Living Planet,9,10,10,Ultimate Swampfire
+Glitch Ben,Chamalien,Oilite,Vega,8,4,8,Articleite,Alpha Centauri,5,4,5,Chamalien
+Whampire,Eatle,Riskite,Zygara,9,10,6,Valueite,Orion Nebula,5,7,5,Whampire
+Ultimate Echo Echo,Ultimate Way Big,Totalite,Solaris,6,6,9,Threeite,Hala,7,4,6,Ultimate Way Big
+Toepick,Heatblast,Whereite,Xandar,7,6,9,Ontoite,Talos IV,9,6,9,Toepick
+Humungousaur,Ultimate Gravattack,Lateite,Rylos,5,8,10,Actite,Rylos,10,4,7,Humungousaur
+Upgrade,Big Chill,Minuteite,Pandora,9,7,10,Sourceite,Vortis,9,5,8,Big Chill
+Ultimate Swampfire,XLR8,Centuryite,Ego the Living Planet,9,10,10,Withoutite,Beta Hydri,9,5,8,Ultimate Swampfire
+Ghostfreak,Gax,Maybeite,Solaris,8,8,6,Girlite,Altair IV,9,5,6,Ghostfreak
+The Worst,Ultimate Echo Echo,Candidateite,Vortis,6,8,6,Totalite,Solaris,6,6,9,Ultimate Echo Echo
+Feedback,Lodestar,Norite,Beta Hydri,7,4,10,Cellite,Krypton,6,8,10,Feedback
+Glitch Ben,Diamondhead,Oilite,Vega,8,4,8,Evidenceite,Vega,7,7,9,Glitch Ben
+Shocksquatch,Bloxx,Everite,Omega Centauri,9,6,6,Agentite,Hala,8,10,9,Bloxx
+Ultimate Spidermonkey,Four Arms,Sendite,Nebulon,10,10,5,Decideite,Epsilon Eridani,8,4,5,Four Arms
+Gravattack,Feedback,Greenite,Kratos IV,5,7,6,Norite,Beta Hydri,7,4,10,Gravattack
+Lodestar,Ditto,Cellite,Krypton,6,8,10,Workite,Alpha Centauri,8,4,6,Ditto
+Four Arms,Wildmutt,Decideite,Epsilon Eridani,8,4,5,Chanceite,Epsilon Eridani,8,6,10,Four Arms
+Feedback,Ultimate Swampfire,Norite,Beta Hydri,7,4,10,Centuryite,Ego the Living Planet,9,10,10,Ultimate Swampfire
+Overflow,Big Chill,Receiveite,Nebulon,6,7,8,Sourceite,Vortis,9,5,8,Big Chill
+Glitch Ben,Chamalien,Oilite,Vega,8,4,8,Articleite,Alpha Centauri,5,4,5,Chamalien
+Ditto,Swampfire,Workite,Alpha Centauri,8,4,6,Electionite,Krypton,9,4,10,Swampfire
+Ultimate Swampfire,Jury Rigg,Centuryite,Ego the Living Planet,9,10,10,Toughite,Qonos,7,4,8,Ultimate Swampfire
+Frankenstrike,Snare-oh,Actionite,Rylos,10,7,8,Aite,Vulcan,5,6,7,Snare-oh
+Bullfrag,Ultimate Big Chill,Politicalite,Ego the Living Planet,5,10,5,Herite,Sirius,9,10,9,Ultimate Big Chill
+Eatle,Ultimate Way Big,Valueite,Orion Nebula,5,7,5,Threeite,Hala,7,4,6,Ultimate Way Big
+Shocksquatch,Cannonbolt,Everite,Omega Centauri,9,6,6,Minuteite,Nebulon,10,10,7,Cannonbolt
+Big Chill,Chamalien,Sourceite,Vortis,9,5,8,Articleite,Alpha Centauri,5,4,5,Chamalien
+Goop,Whampire,Alsoite,Ego the Living Planet,9,8,7,Riskite,Zygara,9,10,6,Whampire
+Pesky Dust,Way Big,Simpleite,Nexus Prime,6,7,7,Formite,Tierra Nova,7,8,10,Way Big
+Slapback,Bloxx,Personite,Hala,9,6,5,Agentite,Hala,8,10,9,Slapback
+Ghostfreak,Cannonbolt,Maybeite,Solaris,8,8,6,Minuteite,Nebulon,10,10,7,Ghostfreak
+Gax,Ball Weevil,Girlite,Altair IV,9,5,6,Darkite,Tierra Nova,10,10,8,Ball Weevil
+Big Chill,Chamalien,Sourceite,Vortis,9,5,8,Articleite,Alpha Centauri,5,4,5,Big Chill
+Snare-oh,Echo Echo,Aite,Vulcan,5,6,7,Leaderite,Rylos,8,4,8,Echo Echo
+Shocksquatch,Cannonbolt,Everite,Omega Centauri,9,6,6,Minuteite,Nebulon,10,10,7,Shocksquatch
+Jury Rigg,Four Arms,Toughite,Qonos,7,4,8,Decideite,Epsilon Eridani,8,4,5,Four Arms
+Way Big,Four Arms,Formite,Tierra Nova,7,8,10,Decideite,Epsilon Eridani,8,4,5,Way Big
+Jury Rigg,Four Arms,Toughite,Qonos,7,4,8,Decideite,Epsilon Eridani,8,4,5,Jury Rigg
+Wildmutt,Shocksquatch,Chanceite,Epsilon Eridani,8,6,10,Everite,Omega Centauri,9,6,6,Wildmutt
+Brainstorm,Terraspin,Somebodyite,Xenon,7,4,7,Mostite,Orion Nebula,10,6,7,Terraspin
+Big Chill,Ultimate Cannonbolt,Sourceite,Vortis,9,5,8,Spaceite,Xandar,8,9,9,Ultimate Cannonbolt
+Jetpack Alien,Ghostfreak,Townite,Tau Ceti,8,9,8,Maybeite,Solaris,8,8,6,Jetpack Alien
+Feedback,Lodestar,Norite,Beta Hydri,7,4,10,Cellite,Krypton,6,8,10,Feedback
+Pesky Dust,Way Big,Simpleite,Nexus Prime,6,7,7,Formite,Tierra Nova,7,8,10,Way Big
+Toepick,Blitzwolfer,Whereite,Xandar,7,6,9,Storeite,Talos IV,9,6,6,Toepick
+Upchuck,Armodrillo,Particularlyite,Altair IV,7,10,5,Discussionite,Tierra Nova,5,4,10,Upchuck
+Ultimate Echo Echo,Ultimate Way Big,Totalite,Solaris,6,6,9,Threeite,Hala,7,4,6,Ultimate Echo Echo
+Eye Guy,Fasttrack,Middleite,Kratos IV,10,4,8,Programite,Altair IV,9,10,10,Fasttrack
+Walkatrout,Grey Matter,Taxite,Vulcan,5,9,9,Groundite,Krypton,8,4,6,Grey Matter
+Rath,Eatle,Bestite,Vega,5,8,8,Valueite,Orion Nebula,5,7,5,Eatle
+Hot Shot,Gutrot,Personite,Epsilon Eridani,9,9,7,Thusite,Krypton,6,10,10,Hot Shot
+Big Chill,Chamalien,Sourceite,Vortis,9,5,8,Articleite,Alpha Centauri,5,4,5,Chamalien
+Jetray,Lodestar,Dealite,Tau Ceti,9,8,9,Cellite,Krypton,6,8,10,Jetray
+Wildvine,Ultimate Swampfire,Withoutite,Solaris,9,5,8,Centuryite,Ego the Living Planet,9,10,10,Wildvine
+Ghostfreak,Ultimate Way Big,Maybeite,Solaris,8,8,6,Threeite,Hala,7,4,6,Ultimate Way Big
+Astrodactyl,Ultimate Gravattack,Acrossite,Hala,10,7,8,Actite,Rylos,10,4,7,Ultimate Gravattack
+Jetray,Lodestar,Dealite,Tau Ceti,9,8,9,Cellite,Krypton,6,8,10,Lodestar
+Frankenstrike,Snare-oh,Actionite,Rylos,10,7,8,Aite,Vulcan,5,6,7,Frankenstrike
+Kickin Hawk,AmpFibian,Loseite,Tierra Nova,8,5,8,Particularite,Zantron,5,8,5,AmpFibian
+Terraspin,Ultimate Big Chill,Mostite,Orion Nebula,10,6,7,Herite,Sirius,9,10,9,Terraspin
+Ultimate Way Big,Overflow,Threeite,Hala,7,4,6,Receiveite,Nebulon,6,7,8,Overflow
+Diamondhead,Snare-oh,Evidenceite,Vega,7,7,9,Aite,Vulcan,5,6,7,Diamondhead
+Ditto,Swampfire,Workite,Alpha Centauri,8,4,6,Electionite,Krypton,9,4,10,Swampfire
+Grey Matter,Ultimate Big Chill,Groundite,Krypton,8,4,6,Herite,Sirius,9,10,9,Ultimate Big Chill
+Diamondhead,Snare-oh,Evidenceite,Vega,7,7,9,Aite,Vulcan,5,6,7,Diamondhead
+Shock Rock,Eatle,Littleite,Rylos,7,6,6,Valueite,Orion Nebula,5,7,5,Eatle
+Chamalien,Pesky Dust,Articleite,Alpha Centauri,5,4,5,Simpleite,Nexus Prime,6,7,7,Chamalien
+Alien X,Ultimate Swampfire,Indeedite,Andromeda Prime,7,8,6,Centuryite,Ego the Living Planet,9,10,10,Ultimate Swampfire
+XLR8,Gravattack,Withoutite,Beta Hydri,9,5,8,Greenite,Kratos IV,5,7,6,Gravattack
+Big Chill,Chamalien,Sourceite,Vortis,9,5,8,Articleite,Alpha Centauri,5,4,5,Big Chill
+Frankenstrike,Snare-oh,Actionite,Rylos,10,7,8,Aite,Vulcan,5,6,7,Frankenstrike
+Water Hazard,Upgrade,Seaite,Xandar,9,10,8,Minuteite,Pandora,9,7,10,Water Hazard
+Upgrade,Big Chill,Minuteite,Pandora,9,7,10,Sourceite,Vortis,9,5,8,Upgrade
