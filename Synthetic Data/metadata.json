@@ -1,49 +1,44 @@
 {
-    "tables": {
-        "ben10_table": {
-            "columns": {
-                "alien_name": {
-                    "sdtype": "categorical"
-                },
-                "enemy_name": {
-                    "sdtype": "categorical"
-                },
-                "alien1_species": {
-                    "sdtype": "categorical"
-                },
-                "alien1_home_planet": {
-                    "sdtype": "categorical"
-                },
-                "alien1_strength_level": {
-                    "sdtype": "categorical"
-                },
-                "alien1_speed_level": {
-                    "sdtype": "categorical"
-                },
-                "alien1_intelligence": {
-                    "sdtype": "categorical"
-                },
-                "alien2_species": {
-                    "sdtype": "categorical"
-                },
-                "alien2_home_planet": {
-                    "sdtype": "categorical"
-                },
-                "alien2_strength_level": {
-                    "sdtype": "categorical"
-                },
-                "alien2_speed_level": {
-                    "sdtype": "categorical"
-                },
-                "alien2_intelligence": {
-                    "sdtype": "categorical"
-                },
-                "winner": {
-                    "sdtype": "categorical"
-                }
-            }
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1",
+    "columns": {
+        "alien_name": {
+            "sdtype": "categorical"
+        },
+        "enemy_name": {
+            "sdtype": "categorical"
+        },
+        "alien1_species": {
+            "sdtype": "categorical"
+        },
+        "alien1_home_planet": {
+            "sdtype": "categorical"
+        },
+        "alien1_strength_level": {
+            "sdtype": "categorical"
+        },
+        "alien1_speed_level": {
+            "sdtype": "categorical"
+        },
+        "alien1_intelligence": {
+            "sdtype": "categorical"
+        },
+        "alien2_species": {
+            "sdtype": "categorical"
+        },
+        "alien2_home_planet": {
+            "sdtype": "categorical"
+        },
+        "alien2_strength_level": {
+            "sdtype": "categorical"
+        },
+        "alien2_speed_level": {
+            "sdtype": "categorical"
+        },
+        "alien2_intelligence": {
+            "sdtype": "categorical"
+        },
+        "winner": {
+            "sdtype": "categorical"
         }
-    },
-    "relationships": [],
-    "METADATA_SPEC_VERSION": "V1"
+    }
 }
